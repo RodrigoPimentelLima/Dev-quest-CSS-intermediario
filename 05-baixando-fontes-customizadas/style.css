@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'SNOW BLUE';
+    src: url(./fonts/SNOW\ BLUE.otf), url(./fonts/SNOW\ BLUE.ttf);
+}
+
+@font-face {
+    font-family: 'BLAZE';
+    src: url(./fonts/Blaze\ of\ Glory.otf);
+}
+
+H2 {
+    font-family: 'SNOW BLUE';
+    font-size: 40PX;
+}
+
+H3 {
+    font-family: 'BLAZE';
+    font-size: 50PX;
+}
